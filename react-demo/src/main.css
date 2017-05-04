@@ -1,0 +1,67 @@
+form > div{
+    padding:100px 0 55px 0;
+    background: #00bcd4;
+    text-align:center;
+    margin-bottom:30px;
+}
+form > div input{
+    line-height: 36px;
+    width: 100%;
+    max-width: 360px;
+    border:0;
+    font-size: 16px;
+    outline:none;
+    display: inline-block;
+    margin: 0 auto;
+    padding:0 10px;
+}
+form > div button{
+    line-height: 35px;
+    border:0;
+    padding:0 10px;
+    border-radius: 3px;
+    color: white;
+    font-size: 14px;
+    margin-left: 8px;
+    background: #ff4081;
+    position: absolute
+}
+.box{
+    overflow: hidden;
+    padding-bottom: 5px
+}
+.box>a{
+    display: block;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 15px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
+}
+
+
+    
+
+
+.left{
+    display: inline-block;
+    text-align: center;
+    width: 12%;
+    font-weight: 300;
+    font-size: 20px;
+    color:white;
+    line-height: 57px;
+    background: #00bcd4;
+}
+.right{
+    display: inline-block;
+    color:#777777;
+    width: 84%;
+    line-height: 57px;
+    padding: 0 1%;
+    font-size: 18px;
+}
+.right .date{
+    font-size: 14px;
+    margin-left: 5px;
+}
